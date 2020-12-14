@@ -1,0 +1,3 @@
+It uses matplotlib, seaborn, pandas, numpy and dataframe.
+Here two datasets are needed, one for corona confirmed countries and one for world happiness index.
+They are plotted and compared and a relationship is established between them.
